@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **GUI Development in Python**
 - 🌱 I’m currently learning **Golang**
 - 👯 I’m looking to collaborate on **any React.js projects.**
-- 👨‍💻 All of my projects are available at [manavpatel.net](manavpatel.net)
+- 👨‍💻 All of my projects are available at manavpatel.net
 - 💬 Ask me about **Leetcode, React, Backend, Databases**
 - 📫 How to reach me **manavpatel6978@gmail.com**
 - ⚡ Fun fact **I am vegetarian 🥗**
