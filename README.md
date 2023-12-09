@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,jest,mysql,mongodb,aws,figma, postman)](https://manavpatel.net)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,jest,mysql,mongodb,aws,figma,postman)](https://manavpatel.net)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav809&show_icons=true&locale=en&layout=compact" alt="manav809" /></p>
 
