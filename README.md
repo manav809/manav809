@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://manavpatel.net">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,jest,mysql,mongodb,aws,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,jest,mysql,mongodb,docker,aws,figma,postman" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav809&show_icons=true&locale=en&layout=compact" alt="manav809" /></p>
